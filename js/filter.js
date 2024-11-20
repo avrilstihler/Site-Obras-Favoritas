@@ -14,7 +14,7 @@ export function filter(data, text) {
   search.map((info) => {
     container.innerHTML += `
       <div class="card">
-        <img src="./imagens/${info.image}" alt="${info.alt}" />
+        <img src="https://avrilstihler.github.io/Obras-Favoritas/imagens/${info.image}" alt="${info.alt}" />
         <div class="info">
           <h3>${info.title}</h3>
           <p>${info.description}</p>
