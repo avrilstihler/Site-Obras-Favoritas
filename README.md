@@ -35,7 +35,3 @@ Este projeto é uma plataforma simples para compartilhar reflexões pessoais e d
 
 ### Fase 4: Lançamento Público 
 - **Lançamento da plataforma**: Disponibilizar o site para o público geral, com a funcionalidade básica de leitura e pesquisa por tags.
-
-## Contribuições
-
-Este projeto é pessoal e ainda está em fase inicial, mas caso você tenha sugestões ou queira ajudar a melhorar o site, fique à vontade para entrar em contato. No momento, o projeto não está aceitando contribuições externas, mas isso pode mudar no futuro.
