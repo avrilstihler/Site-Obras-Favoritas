@@ -4,7 +4,7 @@ export const data = [
    {
       title: 'Shingeki no Kyojin',
       description: ' Uma história complexa sobre humanidade, sacrifício e liberdade, "Shingeki no Kyojin" nos transporta para um mundo devastado por titãs, onde os protagonistas enfrentam forças além de sua compreensão. A série explora não apenas a luta pela sobrevivência, mas também os dilemas morais, os efeitos do poder e a natureza das sociedades. A trama é marcada por reviravoltas e questionamentos filosóficos sobre o ciclo de violência, o sentido da guerra e a busca por um futuro melhor, tudo enquanto desafia as expectativas do público com suas profundas revelações.',
-      image: '/Obras-Favoritas/imagens/shingekinokyojin.jpg',
+      image: './imagens/shingekinokyojin.jpg',
       alt: 'Pôster de Shingeki no Kyojin',
       tag: 'ação, fantasia, filosofia',
       
@@ -12,7 +12,7 @@ export const data = [
    {
       title: 'Sonny Boy', 
       description: 'Com uma narrativa surreal e introspectiva, "Sonny Boy" é uma obra que mistura mistério, ficção científica e drama psicológico. O anime segue um grupo de estudantes que, após serem transportados para uma dimensão paralela, precisam lidar com os próprios poderes e os conflitos internos que surgem entre eles. A série explora temas como a solidão, a identidade, o poder, e o impacto da liberdade sobre os seres humanos, tudo isso com um estilo artístico único e uma abordagem não linear que deixa o público refletindo sobre a natureza da existência.',
-      image: '/Obras-Favoritas/imagens/sonnyboy.jpg',
+      image: './imagens/sonnyboy.jpg',
       alt: 'Pôster de Sonny Boy',
       tag: 'ficção científica, psicológico, surrealismo',
       
