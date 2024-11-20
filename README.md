@@ -53,10 +53,3 @@ O objetivo deste projeto é criar um site pessoal interativo onde serão exibido
 ## Conclusão
 
 O uso do Git e GitHub foi essencial para o sucesso deste projeto, permitindo um controle eficiente sobre as versões do código, facilitando o processo de publicação no GitHub Pages e possibilitando a colaboração no futuro. Apesar dos desafios enfrentados, especialmente com a configuração das imagens e a responsividade do site, o projeto está funcionando conforme o esperado e foi uma excelente oportunidade para aplicar conhecimentos de desenvolvimento web e gerenciamento de código com Git.
-
-
-- **Testes de usabilidade**: Verificar a experiência de navegação e leitura.
-- **Ajustes e otimizações**: Refletir sobre o design e corrigir erros ou dificuldades encontradas nos testes.
-
-### Fase 4: Lançamento Público 
-- **Lançamento da plataforma**: Disponibilizar o site para o público geral, com a funcionalidade básica de leitura e pesquisa por tags.
