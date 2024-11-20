@@ -11,24 +11,17 @@ O objetivo deste projeto é criar um site pessoal interativo onde serão exibido
 - **Exibição de Imagens**: As imagens de cada obra serão exibidas ao lado das informações do projeto.
 - **Design Responsivo**: O site será responsivo e funcionará bem em dispositivos móveis e desktops.
 
-### Funcionalidades Futuras:
-- **Sistema de Avaliação**: Implementar um sistema onde os usuários possam avaliar as obras favoritas.
-- **Comentários**: Permitir que os usuários deixem comentários sobre as obras.
-- **Edição de Obras**: Implementar uma funcionalidade para adicionar, editar ou remover obras do site.
-- **Animações e Efeitos Visuais**: Adicionar animações e efeitos visuais para tornar o site mais interativo e dinâmico.
-
 ## Cronograma de Desenvolvimento
 
 | Etapa                        | Descrição                                                | Prazo Estimado       |
 |------------------------------|----------------------------------------------------------|----------------------|
-| **1. Planejamento do Projeto** | Definir os objetivos e escopo do projeto.                | 20/11/2024           |
-| **2. Configuração Inicial**   | Configuração do repositório no GitHub e estruturação inicial do site. | 22/11/2024           |
-| **3. Desenvolvimento do Layout** | Criar a estrutura HTML e CSS para o layout básico do site. | 24/11/2024           |
-| **4. Implementação do Filtro de Busca** | Desenvolver a funcionalidade de busca e filtragem das obras. | 26/11/2024           |
-| **5. Integração de Imagens**  | Incluir imagens das obras e garantir a exibição correta. | 28/11/2024           |
-| **6. Testes e Ajustes**       | Testar a funcionalidade e fazer ajustes de design e usabilidade. | 30/11/2024           |
-| **7. Implementação de Funcionalidades Futuras** | Implementar funcionalidades adicionais como avaliações e comentários. | 05/12/2024           |
-| **8. Finalização e Publicação** | Finalizar o site e publicá-lo no GitHub Pages.          | 07/12/2024           |
+| **1. Planejamento do Projeto** | Definir os objetivos e escopo do projeto.                | 16/11/2024           |
+| **2. Configuração Inicial**   | Configuração do repositório no GitHub e estruturação inicial do site. | 16/11/2024           |
+| **3. Desenvolvimento do Layout** | Criar a estrutura HTML e CSS para o layout básico do site. | 17/11/2024           |
+| **4. Implementação do Filtro de Busca** | Desenvolver a funcionalidade de busca e filtragem das obras. | 17/11/2024           |
+| **5. Integração de Imagens**  | Incluir imagens das obras e garantir a exibição correta. | 18/11/2024           |
+| **6. Testes e Ajustes**       | Testar a funcionalidade e fazer ajustes de design e usabilidade. | 20/11/2024           |
+| **8. Finalização e Publicação** | Finalizar o site e publicá-lo no GitHub Pages.          | 20/11/2024           |
 
 ## Documentação do Processo de Desenvolvimento
 
@@ -44,7 +37,7 @@ O objetivo deste projeto é criar um site pessoal interativo onde serão exibido
    Após realizar algumas modificações no código e no repositório, percebi que as alterações não estavam sendo refletidas na página publicada. O problema foi causado pelo cache do navegador, que estava carregando versões antigas dos arquivos. Após limpar o cache e realizar um novo push para o GitHub, o site foi atualizado corretamente.
 
 4. **Responsividade**:
-   Outra dificuldade foi garantir que o design fosse responsivo e adaptasse bem a diferentes tamanhos de tela. Embora o layout tenha sido inicialmente projetado para desktop, foi necessário ajustar o CSS para que o site também funcionasse bem em dispositivos móveis.
+   Outra dificuldade foi garantir que o design fosse responsivo e adaptasse bem a diferentes tamanhos de tela. Embora o layout tenha sido inicialmente projetado para desktop, foi necessário ajustar o CSS para que o site também funcionasse razoavelmente bem em dispositivos móveis.
 
 ### Como o Git Ajudou a Gerenciar o Projeto
 
