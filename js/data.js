@@ -28,7 +28,7 @@ export const data = [
    {
       title: 'Arcane',
       description: 'Baseada no universo de "League of Legends", "Arcane" é uma série animada que transcende a simples adaptação de jogo, oferecendo uma narrativa poderosa sobre classe social, ambição, e os vínculos entre irmãs. A trama se passa na cidade de Piltover e seus subterrâneos, revelando a ascensão de figuras como Vi e Jinx e os conflitos internos que as moldam. A animação é um espetáculo visualmente impressionante, com uma direção de arte única que mistura elementos de pintura e grafismo digital, enquanto a trama explora as complexidades da moralidade e do poder em um mundo caótico.',
-      image: 'arcane.jpg',
+      image: 'imagens/arcane.jpg',
       alt: 'Pôster de Arcane',
       tag: 'ação, fantasia, drama',
      
