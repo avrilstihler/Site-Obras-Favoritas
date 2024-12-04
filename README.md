@@ -55,3 +55,4 @@ O objetivo deste projeto é criar um site pessoal interativo onde serão exibido
 O uso do Git e GitHub foi essencial para o sucesso deste projeto, permitindo um controle eficiente sobre as versões do código, facilitando o processo de publicação no GitHub Pages e possibilitando a colaboração no futuro. Apesar dos desafios enfrentados, especialmente com a configuração das imagens e a responsividade do site, o projeto está funcionando conforme o esperado e foi uma excelente oportunidade para aplicar conhecimentos de desenvolvimento web e gerenciamento de código com Git.
 
 linha de teste
+Tudo okay
