@@ -6,7 +6,7 @@ export const data = [
       description: ' Uma história complexa sobre humanidade, sacrifício e liberdade, "Shingeki no Kyojin" nos transporta para um mundo devastado por titãs, onde os protagonistas enfrentam forças além de sua compreensão. A série explora não apenas a luta pela sobrevivência, mas também os dilemas morais, os efeitos do poder e a natureza das sociedades. A trama é marcada por reviravoltas e questionamentos filosóficos sobre o ciclo de violência, o sentido da guerra e a busca por um futuro melhor, tudo enquanto desafia as expectativas do público com suas profundas revelações.',
       image: 'shingekinokyojin.jpg',
       alt: 'Pôster de Shingeki no Kyojin',
-      tag: 'ação, fantasia, filosofia',
+      tag: 'ação, fantasia, filosofia, guerra',
       
    },
    {
