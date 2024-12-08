@@ -30,13 +30,7 @@ O objetivo deste projeto é criar um site pessoal interativo onde serão exibida
 1. **Organização das Imagens**:
    Um dos primeiros desafios foi garantir que as imagens fossem exibidas corretamente no site. Inicialmente, mesmo com as imagens armazenadas na pasta correta, elas não apareciam devido a problemas com o caminho dos arquivos e a configuração do GitHub Pages. Após revisar o código e corrigir os caminhos relativos das imagens, o problema foi resolvido.
 
-2. **Configuração do Git e GitHub Pages**:
-   A configuração inicial do Git e do GitHub Pages apresentou dificuldades, especialmente ao tentar vincular o repositório com a página do GitHub. Tive que ajustar a URL remota do repositório e configurar corretamente o branch para que o site fosse publicado corretamente.
-
-3. **Problemas com Cache**:
-   Após realizar algumas modificações no código e no repositório, percebi que as alterações não estavam sendo refletidas na página publicada. O problema foi causado pelo cache do navegador, que estava carregando versões antigas dos arquivos. Após limpar o cache e realizar um novo push para o GitHub, o site foi atualizado corretamente.
-
-4. **Responsividade**:
+2. **Responsividade**:
    Outra dificuldade foi garantir que o design fosse responsivo e adaptasse bem a diferentes tamanhos de tela. Embora o layout tenha sido inicialmente projetado para desktop, foi necessário ajustar o CSS para que o site também funcionasse razoavelmente bem em dispositivos móveis.
 
 ### Como o Git Ajudou a Gerenciar o Projeto
