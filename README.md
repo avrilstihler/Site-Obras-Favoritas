@@ -1,6 +1,5 @@
 # Minhas Obras Favoritas 🎬✨
-[Site Obras Favoritas]([URL](https://avrilstihler.github.io/Site-Obras-Favoritas/))
-
+Clique [aqui](https://avrilstihler.github.io/Site-Obras-Favoritas/) para acessar o site.
 
 ![Site](images/obrasfavoritas.png)
 
