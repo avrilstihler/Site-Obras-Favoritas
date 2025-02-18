@@ -13,5 +13,5 @@ O objetivo deste projeto é criar um site pessoal interativo onde serão exibida
 ### Funcionalidades:
 - **Exibição de Cards**: Exibe as obras favoritas em formato de cards, com imagem, título e descrição.
 - **Filtro de Busca**: Possui uma barra de pesquisa que permite filtrar as obras com base no nome, descrição ou tags.
-- **Design Responsivo**: O site funciona bem em dispositivos móveis e desktops.
+- **Design Responsivo**: O layout se ajusta automaticamente para oferecer uma experiência otimizada em dispositivos móveis e desktops.
 
