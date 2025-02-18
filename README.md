@@ -1,4 +1,6 @@
 # Minhas Obras Favoritas 🎬✨
+> Narrativas que tornam a vida um pouco mais compreensível e suportável.
+
 Clique [aqui](https://avrilstihler.github.io/Site-Obras-Favoritas/) para acessar o site.
 
 ![Site](images/obrasfavoritas.png)
