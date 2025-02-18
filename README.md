@@ -1,5 +1,7 @@
-# Minhas Obras Favoritas 🎬✨
-> Narrativas que tornam a vida um pouco mais compreensível e suportável.
+# Minhas Obras Favoritas do Audiovisual 🌌🎞️
+> "Obras audiovisuais (livros também!) têm o poder de tornar a vida mais compreensível e suportável. Elas refletem nossas lutas e sonhos, conectando-nos com sentimentos que muitas vezes não conseguimos expressar. Mais do que entretenimento, essas narrativas oferecem consolo e inspiração, ajudando-nos a lidar com a complexidade do mundo e a encontrar alívio nas turbulências da vida."
+
+
 
 Clique [aqui](https://avrilstihler.github.io/Site-Obras-Favoritas/) para acessar o site.
 
