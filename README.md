@@ -17,3 +17,19 @@ O objetivo deste projeto é criar um site pessoal interativo onde serão exibida
 - **Filtro de Busca**: Possui uma barra de pesquisa que permite filtrar as obras com base no nome, descrição ou tags.
 - **Design Responsivo**: O layout se ajusta automaticamente para oferecer uma experiência otimizada em dispositivos móveis e desktops.
 
+
+## 📢 Disclaimer de Crédito e Reconhecimento
+> **Aviso de Transparência**
+> 
+> Este site foi desenvolvido por mim, Avril Stihler, durante meu processo de aprendizado em programação, quando eu ainda estava dando os primeiros passos com HTML, CSS e JavaScript.
+> 
+> Na época, utilizei como base visual um projeto que encontrei online. Clonei sua estrutura para estudar e experimentar, e modifiquei todo o conteúdo (textos, imagens, temas), mas a aparência geral e o funcionamento ainda seguem o modelo original.
+> 
+> Por desconhecimento, não salvei a referência do projeto base e não sabia da importância de licenças e créditos de autoria. Hoje entendo essa responsabilidade e reconheço que deveria ter dado os devidos créditos desde o início.
+> 
+> Se você for a pessoa autora do projeto original ou reconhecer o layout que usei como base, por favor, entre em contato comigo pelo e-mail: [avrilstihlercastro@gmail.com]. Farei questão de incluir os créditos apropriados imediatamente.
+> 
+> Peço sinceras desculpas pela falta de reconhecimento anterior e agradeço pela compreensão.
+
+— Avril Stihler, 2025
+
